@@ -1,0 +1,5 @@
+name: High Module
+type: module
+package: custom
+description: Creating a high module content entity with bundles
+core_version_requirement: ^9

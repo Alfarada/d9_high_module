@@ -1,0 +1,6 @@
+administer high types:
+  title: "Administer high Entity types"
+  restrict access: true
+
+permission_callbacks:
+  - '\Drupal\high\HighPermissionsGenerator::highTypePermissions'

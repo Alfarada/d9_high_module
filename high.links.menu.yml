@@ -1,0 +1,11 @@
+high_entity_collection_menu:
+  title: 'High entity list'
+  route_name: entity.high.collection
+  description: 'List of High entities'
+  parent: system.admin_content
+
+high_type_entity_collection_menu:
+  title: 'High Entity Types'
+  route_name: entity.high_type.collection
+  description: 'List of High entity types (bundles)'
+  parent: system.admin_structure

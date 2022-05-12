@@ -1,0 +1,11 @@
+high_entity_action_add:
+  route_name: entity.high.add_page
+  title: 'Add High Entity'
+  appears_on:
+    - entity.high.collection
+
+high_type_entity_action_add:
+  route_name: entity.high_type.add_form
+  title: 'Add High Entity Type (Bundle)'
+  appears_on:
+    - entity.high_type.collection

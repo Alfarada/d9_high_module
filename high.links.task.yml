@@ -1,0 +1,15 @@
+high_entity_task_view:
+  route_name: entity.high.canonical
+  base_route: entity.high.canonical
+  title: 'View'
+
+high_entity_task_edit:
+  route_name: entity.high.edit_form
+  base_route: entity.high.canonical
+  title: 'Edit'
+
+high_entity_task_delete:
+  route_name:  entity.high.delete_form
+  base_route:  entity.high.canonical
+  title: Delete
+  weight: 10
